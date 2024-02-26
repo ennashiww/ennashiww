@@ -1,0 +1,2 @@
+      System.out.println("durable="+s.isDurable()); 
+      System.out.println("transactional="+s.isTransactional()); 
