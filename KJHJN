@@ -1,0 +1,4 @@
+  String localeCode = (String)apiContext.get("localeCode"); 
+  String mobileId = (String)apiContext.get("mobileId"); 
+  Integer modelId = (Integer)apiContext.get("modelId"); 
+  ... 
