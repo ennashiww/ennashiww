@@ -1,0 +1,4 @@
+  // Save the ApiContext Hashtable in the Session 
+  session.setAttribute("API_CONTEXT", apiContext); 
+  ... 
+} 
