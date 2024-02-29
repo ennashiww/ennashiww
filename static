@@ -1,0 +1,6 @@
+         * more than one line long
+         */
+        private static Object classVar2;
+
+        /** instanceVar1 documentation comment */
+        public Object instanceVar1;
