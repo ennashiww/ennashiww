@@ -1,0 +1,4 @@
+set str%m%=%str%
+cls&for /l %%i in (%m%,-1,%v%) do echo.!str%%i!
+if %x% equ 20 call :lp
+set str=&set n=0
