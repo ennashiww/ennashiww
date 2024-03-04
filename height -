@@ -1,0 +1,5 @@
+                    screen.blit(life_image,\
+                        (width - 10 - (i+1)*life_rect.width, \
+                        height - 10 - life_rect.height))
+             
+            score_text = score_font.render(str("Score: %s" % score), True, WHITE)
