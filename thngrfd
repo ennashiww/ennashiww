@@ -1,0 +1,6 @@
+        g.drawString("GAME OVER", 100, 200);
+        g.setFont(new Font("Arial", 2, 50));
+        if (win)
+            g.drawString("Congratulation!  You Win!", 100, 400);
+        else
+            g.drawString("So Sorry,  You Lose!", 100, 400);
