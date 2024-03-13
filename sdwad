@@ -1,0 +1,5 @@
+				break;
+			case '4':
+				clrscr();
+				puts("================================");
+				puts("|   Thank you for your using!  |");
