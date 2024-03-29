@@ -1,0 +1,6 @@
+        stringRedisTemplate.execute((RedisCallback<Object>) connection -> {
+            Long size = connection.dbSize();
+                return null;
+        });
+    }
+}
