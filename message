@@ -1,0 +1,4 @@
+    @Override
+    public void onMessage(Message message, byte\[\] pattern) {
+        String keyName = new String(message.getBody());
+ 
